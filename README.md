@@ -49,3 +49,16 @@ As part of my IT internship, I designed and deployed a secure virtual lab enviro
 
 ##  Repo Structure
 
+/scripts → PowerShell and Bash scripts
+/configs → AD/DNS/DHCP/firewall configurations
+
+
+Skills Demonstrated
+
+- Windows/Linux Administration  
+- Virtualization (VMware, VirtualBox)  
+- Networking (TCP/IP, DNS, DHCP)  
+- PowerShell / Bash scripting  
+- Cybersecurity fundamentals  
+- Documentation & troubleshooting 
+
